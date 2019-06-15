@@ -1,4 +1,4 @@
-# Hatchways Assessment API
+# Work Order API
 An API that can be could be used to do the following
 - Create a worker
 - Delete a worker
