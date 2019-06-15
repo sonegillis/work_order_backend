@@ -38,7 +38,7 @@ An API that can be could be used to do the following
       DB_USER=YOUR_DB_USER\
       DB_PASSWORD=YOUR_DB_PASSWORD\
       DB_HOST=YOUR_DB_HOST\
-      DB_PORT=YOUR_DB_PORT\
+      DB_PORT=YOUR_DB_PORT
      
    You can generate a secret key [here](https://www.miniwebtool.com/django-secret-key-generator/)
    
